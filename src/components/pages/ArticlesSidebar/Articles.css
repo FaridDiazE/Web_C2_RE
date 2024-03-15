@@ -1,0 +1,13 @@
+.container-articles{
+    display: flex;
+    margin-left: 35px;
+    flex-direction: column;
+    background-color: lightgray;
+    width: 30%;
+    height: 300vh;
+    border-radius: 10px;
+}
+
+.articles-subtheme{
+width: 70%;
+}

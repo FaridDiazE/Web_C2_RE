@@ -1,0 +1,25 @@
+.photo-profile{
+    margin-left:40%;
+    overflow: hidden;
+    width: 70px; 
+    height: 70px;
+    border-radius: 50%;
+    margin-top: -40px;
+    
+}
+
+.photo-profile img{
+    object-fit: cover; 
+    display: block;
+    border-radius: 60%;
+  
+}
+
+.container-data Button{
+    border-color: grey;
+    color: black;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 100px;
+    height: 50px;
+}

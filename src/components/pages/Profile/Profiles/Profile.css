@@ -1,0 +1,22 @@
+.friends-card-container{
+    display: flex;
+    background-color: white;
+    width: 86%;
+    height: Hug(60px);
+    margin-left: 8%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.name-Profile{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 14.52px;
+}
+
+.carrer-Profile{
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12.1px;
+    margin-top: -10px;
+}

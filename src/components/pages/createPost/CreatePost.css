@@ -1,0 +1,139 @@
+.align-vertical {
+    display: flex;
+    align-items: center;
+  }
+.container-create-post{
+    width: 600px;
+    height: 140px;
+    background: lightgray;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.input-create-publish{
+    margin-top: 20px;
+    margin-left: 8px;
+    width: 80% ;
+    height: 40px;
+}
+.sup-options-create-contariner{
+    display: flex;
+}
+.options-create-post-container{
+    margin-top: 2%;
+    margin-left: 40%;
+    display: flex;
+}
+.check-img{
+    margin-left: 2px;
+    margin-top: 25px;
+}
+
+.user-profile-img{
+    margin-top: 22px;
+    margin-left: 5px;
+}
+
+.modal-content-event{
+    width: 100%;
+    height: 90vh;
+    background-color: #D9D9D9;
+    padding: 4%;
+}
+
+
+h1{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16.94px;
+    color: black;
+}
+.container-inputs{
+    width: 100%;
+    color: #929292;
+}
+
+.input-addMEdia{
+    width: 104px;
+    height: 98px;
+    background-color: white;
+    margin-bottom: 5%;
+}
+
+.input-AddE{
+    width: 351px;
+    height: 127px;
+    background-color: white;
+    margin-bottom: 5%;
+}
+
+.input-AddFI{
+    width: 192px;
+    height: 37px;
+    background-color: white;
+}
+
+.input-enlace-container{
+    margin-top: 15%;
+}
+
+.input-enlace{
+    
+}
+
+.inputs-dates{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.52px;
+}
+
+.container-button-eve{
+    color: black;
+    margin-left: 210px;
+    background-color: #C5C5C5;
+    width: 130px;
+}
+
+.button-event{
+    width: 150px;
+    height: 33px;
+}
+
+.modal-conten-media{
+    width: 92%;
+    height: 28vh ;
+    background-color: white;
+    padding: 4%;
+    border: 2px solid white;
+    
+}
+
+.container-av-med{
+    display: flex;
+}
+
+.input-media-add{
+    width: 80%;
+    height: 15vh;
+    background-color: #929292;
+}
+
+.container-button-med{
+    display: flex;
+    
+}
+
+.button-media{
+    margin-left: 40px;
+    width: 120px;
+    height: 24px;
+    margin-top: 10px;
+}
+
+.button-media2{
+    margin-left: 140px;
+    height: 5vh;
+    height: 24px;
+    margin-top: 10px;
+}

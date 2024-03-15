@@ -1,0 +1,14 @@
+.btn {
+    
+    margin-left: 5px;
+    height: 40px;
+    background-color: lightgray; 
+    border: none;
+    color: black;
+    text-align: center; 
+    text-decoration: none; 
+    cursor: pointer; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
